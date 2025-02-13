@@ -14,7 +14,7 @@ This is a simple user management application built with Express.js and MongoDB. 
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/vasusharma-code/backend-jwt
    ```
 
 2. Navigate to the project directory:
