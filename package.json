@@ -1,0 +1,23 @@
+{
+  "name": "user-management-app",
+  "version": "1.0.0",
+  "description": "A simple user management application using Express.js and MongoDB.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "jsonwebtoken": "^8.5.1",
+    "dotenv": "^8.2.0",
+    "body-parser": "^1.19.0",
+    "express-validator": "^6.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
